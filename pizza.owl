@@ -22,7 +22,7 @@
      xmlns:owl="http://www.w3.org/2002/07/owl#">
     <owl:Ontology rdf:about="">
         <rdfs:comment xml:lang="en"
-            >An example ontology that contains all constructs required for the various versions of the Pizza Tutorial run by Manchester University (see http://www.co-ode.org/resources/tutorials/)</rdfs:comment>
+            >An example ontology thatcontains all constructs required for the various versions of the Pizza Tutorial run by Manchester University (see http://www.co-ode.org/resources/tutorials/)</rdfs:comment>
         <owl:versionInfo xml:lang="en"
             >v.1.5. Removed protege.owl import and references. Made ontology URI date-independent</owl:versionInfo>
         <owl:versionInfo rdf:datatype="&xsd;string">version 1.5</owl:versionInfo>
